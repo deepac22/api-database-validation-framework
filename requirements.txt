@@ -1,6 +1,7 @@
 flask
 flask-sqlalchemy
 pytest
+pytest-html
 requests
 python-dotenv
 psycopg2-binary

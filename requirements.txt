@@ -2,3 +2,5 @@ flask
 flask-sqlalchemy
 pytest
 requests
+python-dotenv
+psycopg2-binary
